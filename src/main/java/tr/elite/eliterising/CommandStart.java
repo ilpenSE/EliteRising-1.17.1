@@ -32,7 +32,7 @@ public class CommandStart implements CommandExecutor {
             return true;
         }
         Player player = (Player) sender;
-        if (!(player.hasPermission("start"))) {
+        if (!(player.hasPermission("eliterising.start"))) {
             sendError("Bu komutu kullanmak için gereken iznin yok.",player);
             return true;
         }
