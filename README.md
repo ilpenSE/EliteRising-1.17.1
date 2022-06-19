@@ -1,4 +1,4 @@
-# EliteRising v1.1 for 1.17
+# EliteRising 1.17
 ## v1.1 Changelog
 This update took significant my time. So v1.1 update's content is so big. Let's start.
 ### Commands
